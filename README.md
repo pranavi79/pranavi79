@@ -19,12 +19,9 @@ while(1){
  }
 }
 ```
-<details>
 <a href="https://github.com/pranavi79">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pranavi79&theme=radical&show_icons=true" />
-  <br>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavi79&langs_count=10&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavi79&langs_count=10&theme=radical&layout=compact" />
 </a>
-</details>
 
 ---
