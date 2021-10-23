@@ -11,7 +11,13 @@
 </br>
 ---
 ```
-cout<<"Hello World";
+cout<<"Hello World\n";
+vector<string>arr={"sleep","code","cry"};
+while(1){
+ for(int i=0;i<3;i++){
+   cout<<arr[i]<<endl;
+ }
+}
 ```
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pranavi79&theme=buefy&show_icons=true" />
